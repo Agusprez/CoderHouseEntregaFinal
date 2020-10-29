@@ -1,4 +1,4 @@
-{"marcaDeAutos":"Toyota","precioDeAutos":637571},
+[{"marcaDeAutos":"Toyota","precioDeAutos":637571},
 {"marcaDeAutos":"Land Rover","precioDeAutos":809063},
 {"marcaDeAutos":"Dodge","precioDeAutos":209571},
 {"marcaDeAutos":"Ford","precioDeAutos":409358},
@@ -47,4 +47,4 @@
 {"marcaDeAutos":"Mercury","precioDeAutos":406994},
 {"marcaDeAutos":"Lamborghini","precioDeAutos":142917},
 {"marcaDeAutos":"Porsche","precioDeAutos":885081},
-{"marcaDeAutos":"Buick","precioDeAutos":517522}
+{"marcaDeAutos":"Buick","precioDeAutos":517522}]
